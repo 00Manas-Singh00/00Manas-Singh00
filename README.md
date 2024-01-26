@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manas Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" alt="Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG02ZDI5a3RyOWEwdTlsZTVicnhvamRsY2plczdwcDk4d2dnZWZldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif">
+<img align="right" width="300" alt="Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG02ZDI5a3RyOWEwdTlsZTVicnhvamRsY2plczdwcDk4d2dnZWZldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=00manas-singh00&label=Profile%20views&color=0e75b6&style=flat" alt="00manas-singh00" /> </p>
 
