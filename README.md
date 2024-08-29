@@ -30,7 +30,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=00manas-singh00&show_icons=true&locale=en&layout=compact" alt="00manas-singh00" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Your Name's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="Your Name's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=00Manas-Singh00&show_icons=true&theme=radical" alt="Manas' GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=00Manas-Singh00&theme=radical" alt="Manas' GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00Manas-Singh00&layout=compact&theme=radical" alt="Top Languages" />
 </p>
