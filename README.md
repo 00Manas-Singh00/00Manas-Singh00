@@ -33,9 +33,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=00Manas-Singh00&show_icons=true&theme=radical" alt="Manas' GitHub Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=00Manas-Singh00&theme=radical" alt="Manas' GitHub Streak" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00Manas-Singh00&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=00Manas-Singh00&show_icons=true&theme=radical" alt="Manas' GitHub Stats" />
 </p>
