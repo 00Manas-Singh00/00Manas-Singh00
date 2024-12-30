@@ -96,9 +96,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=00Manas-Singh00&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=00Manas-Singh00&theme=github" alt="GitHub Contribution Graph" />
-</p>
-
 
 <h3 align="center">"Keep Innovating, Keep Creating
