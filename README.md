@@ -97,7 +97,8 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=00Manas-Singh00&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=00Manas-Singh00&theme=github" alt="GitHub Contribution Graph" />
 </p>
+
 
 <h3 align="center">"Keep Innovating, Keep Creating
