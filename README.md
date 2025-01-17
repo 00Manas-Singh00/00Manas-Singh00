@@ -15,7 +15,7 @@
 
 <h2>🚀 About Me</h2>
 <ul>
-  <li>🔧 Currently working on <b>Dexter</b>, an innovative frontend project.</li>
+  <li>🔧 Currently working on <b>GMail</b>, an innovative frontend project.</li>
   <li>🌱 Learning cutting-edge technologies like <b>Next.js</b> to stay ahead.</li>
   <li>🎨 Passionate about creating seamless, intuitive user interfaces with React and GSAP.</li>
   <li>📚 Check out my portfolio: <a href="https://dev-manaz.netlify.app/">**Portfolio**</a></li>
