@@ -1,41 +1,34 @@
 name: Generate Contribution Snake
 on:
   schedule:
-    - cron: "30 3 * * *"  # 3:30 AM UTC
+    - cron: "0 0 * * *"  # Daily midnight UTC
   workflow_dispatch:
 
 permissions:
-  contents: write  # Mandatory for pushing changes
-  pull-requests: write
+  contents: write  # Critical authorization
 
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout with full history
+      - name: Checkout with write access
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Required for rebase
+          fetch-depth: 0  # Required for git history
           persist-credentials: true
-          ref: main  # Explicit branch reference
-
-      - name: Setup Git Identity
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git config --global pull.rebase true
 
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: 00Manas-Singh00
           outputs: |
-            type: svg
-            path: output/snake.svg
+            output/snake.svg
 
-      - name: Force Push Changes
+      - name: Force Commit & Push
         run: |
-          git add output/snake.svg
-          git commit -m "Update snake: $(date -u +'%Y-%m-%dT%H:%M:%SZ')" --allow-empty
-          git pull origin main
-          git push origin main -f
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add -A
+          git commit -m "Update snake: $(date +'%Y-%m-%d %H:%M')" --allow-empty
+          git pull --rebase  # Prevent divergent histories
+          git push origin HEAD:main -f
