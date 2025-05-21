@@ -1,0 +1,22 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:     # Allows manual triggers
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake Graphic
+        uses: Platane/snk@master
+        with:
+          github_user_name: 00Manas-Singh00
+        id: snake-generator
+
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update contribution snake"
+          branch: main
