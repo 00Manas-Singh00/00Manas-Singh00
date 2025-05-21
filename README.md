@@ -89,11 +89,3 @@
 ![Snake animation](https://github.com/00Manas-Singh00/00Manas-Singh00/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
----
-
-<div align="center">
-  
-![Snake animation](https://github.com/00Manas-Singh00/00Manas-Singh00/blob/output/github-contribution-grid-snake.svg)
-
-</div>
