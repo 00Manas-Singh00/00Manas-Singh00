@@ -83,4 +83,4 @@
 
 ---
 
-![Contribution Snake](https://raw.githubusercontent.com/00Manas-Singh00/00Manas-Singh00/snake.svg=>output/snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/00Manas-Singh00/00Manas-Singh00/main/snake.svg%3D%3Eoutput/snake.svg)
