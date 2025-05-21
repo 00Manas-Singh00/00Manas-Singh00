@@ -50,8 +50,7 @@
 
 ### 🚀 Current Ventures
 - **TradeTide**: Crafting a full-stack trading platform with real-time analytics
-- **Animotion**: Building a React animation library powered by GSAP
-- **CodeCanvas**: Developing an interactive code visualization tool
+- **MeetGenius**: Analyze how productive your meeting today was!
 
 ---
 
