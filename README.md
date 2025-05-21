@@ -90,6 +90,10 @@
 
 </div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Innovate+%E2%9A%A1%EF%B8%8F;Create+%F0%9F%8E%A8;Repeat+%E2%9E%B0" alt="Innovation Cycle" />
-</h3>
+---
+
+<div align="center">
+  
+![Snake animation](https://github.com/00Manas-Singh00/00Manas-Singh00/blob/output/github-contribution-grid-snake.svg)
+
+</div>
