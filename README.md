@@ -23,12 +23,12 @@
 
 ---
 
-### 🎯 Portfolio Spotlight
+### Portfolio Spotlight
 [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=00C2FF)](https://dev-manaz.netlify.app/)
 
 ---
 
-### 🔥 Technical Arsenal
+### Technical Arsenal
 
 #### 💻 Frontend Forge
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -36,25 +36,25 @@
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-#### 🎨 Design Studio
+#### Design Studio
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 
-#### ⚙️ Backend Engine
+#### Backend Engine
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### 🚀 Current Ventures
+### Current Ventures
 - **TradeTide**: Crafting a full-stack trading platform with real-time analytics
 - **MeetGenius**: Analyze how productive your meeting today was!
 
 ---
 
-### 📈 Performance Metrics
+### Performance Metrics
 
 <div align="center">
   
@@ -68,7 +68,7 @@
 
 ---
 
-### 📫 Let's Collide Worlds
+### Let's Collide Worlds
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-singh-877645252)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_manas2705)
