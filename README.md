@@ -24,7 +24,7 @@
 ---
 
 ### Portfolio Spotlight
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=00C2FF)](https://dev-manaz.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=00C2FF)](https://manas-io.vercel.app/)
 
 ---
 
